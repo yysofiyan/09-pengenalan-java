@@ -30,9 +30,9 @@
 
 Install Java Development Kit (JDK). 
 
-[Link 64-Bit](http://download.oracle.com/otn-pub/java/jdk/8u181-b13/96a7b8442fe848ef90c96a2fad6ed6d1/jdk-8u181-windows-x64.exe)
+[Link 64-Bit](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 
-[Link 32-Bit](http://download.oracle.com/otn-pub/java/jdk/8u181-b13/96a7b8442fe848ef90c96a2fad6ed6d1/jdk-8u181-windows-i586.exe)
+[Link 32-Bit](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 
 [Net Beans All](http://download.netbeans.org/netbeans/8.2/final/bundles/netbeans-8.2-windows.exe)
 
