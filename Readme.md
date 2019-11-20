@@ -70,7 +70,7 @@ Install Java Development Kit (JDK).
 ---
 
 
-![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg) [![GitHub forks](https://img.shields.io/github/forks/yysofiyan/09-penenalan-java?style=social&label=Fork&maxAge=2592000)](https://github.com/yysofiyan/09-pengenalan-java)
+![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
 
 ![Java](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxFw1XlYq__694SHBmIGuMDb8puPSK9Pk5Dds1UjhyprojOddlcPB9CqUFfLVO3sMqdJs) ![Netbeans.org](https://netbeans.org/images_www/v7/design/logo_netbeans_red.png)
 
