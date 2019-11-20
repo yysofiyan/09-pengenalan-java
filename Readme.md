@@ -11,6 +11,7 @@
 8. Pengaturan tampilan isi variabel
 9. Operator di Java
 10. Latihan Pertemuan 9
+11. [Latihan pertemuan 11](Intro 1)
 
 ## Buku-buku Digital Pendukung Pembelajaran Otodidak Java :
 ---
