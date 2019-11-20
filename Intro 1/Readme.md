@@ -1,4 +1,4 @@
-# MODUL PRAKTIKUM JAVA [^1]
+# MODUL PRAKTIKUM JAVA
 
 *Dasar pemrograman*
 
@@ -17,4 +17,4 @@
 
 ## Referensi
 
-[^1]: [Java Education Network Indonesia](#)
+[Java Education Network Indonesia](#)
