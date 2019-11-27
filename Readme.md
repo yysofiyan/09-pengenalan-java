@@ -68,6 +68,7 @@ Install Java Development Kit (JDK).
 ---
 * [beginnersbook.com/java-tutorial-for-beginners-with-examples](https://beginnersbook.com/java-tutorial-for-beginners-with-examples/)
 * [learnjavaonline.org](https://www.learnjavaonline.org)
+* [edu.netbeans.org](https://edu.netbeans.org/contrib/interviews/frans.html)
 ---
 
 
