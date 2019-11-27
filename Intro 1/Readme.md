@@ -17,6 +17,6 @@
 
 ## Referensi
 
-1. [Java Education Network Indonesia](#)
+1. [Java Education Network Indonesia](https://edu.netbeans.org/contrib/interviews/frans.html)
 2. [tutorialspoint.com](https://www.tutorialspoint.com/compile_java_online.php)
 
