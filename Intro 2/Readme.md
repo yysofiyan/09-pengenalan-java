@@ -9,6 +9,6 @@
 
 ---- 
 
-![Jhon Romero](https://cdn.shopify.com/s/files/1/0017/0432/9285/files/programming-quotes-for-developers-made4dev-code-love.jpg?v=1539287547)
+![Steve Jobs](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ0DHtd3ACLG0o8ZrMP_4M3s0vxyGOLrYiZZnaTp0fiVia7w3yV)
 
 *image source : [made4dev.com](https://made4dev.com/) #programmingQuotes*
