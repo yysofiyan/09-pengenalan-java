@@ -2,7 +2,7 @@ package com.tutorial;
 
 public class Main {
 
-    public static void main(String[] args){
+    public static void main(final String[] args){
 
         // kita akan membuat variabel
         // tipe data
