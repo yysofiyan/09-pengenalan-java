@@ -13,7 +13,7 @@
 10. Latihan Pertemuan 9-10
 11. [Latihan pertemuan 11-12](https://github.com/yysofiyan/09-pengenalan-java/tree/master/Intro%201)
 12. [Latihan pertemuan 13-14](https://github.com/yysofiyan/09-pengenalan-java/tree/master/Intro%202)
-13. [SOAL UAS](https://github.com/yysofiyan/09-pengenalan-java/tree/master/UAS) 🆕
+13. [SOAL UAS](https://github.com/yysofiyan/09-pengenalan-java/tree/master/UAS) 🔥🔥
 
 ## Buku-buku Digital Pendukung Pembelajaran Otodidak Java :
 ---
